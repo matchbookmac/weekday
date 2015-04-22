@@ -7,4 +7,4 @@ For example:
 ```ruby
 > (Time.new(2015, 04, 22)).weekday()
 > 'Wednesday'
-```ruby
+```
